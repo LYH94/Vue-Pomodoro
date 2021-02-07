@@ -4,7 +4,7 @@
 
 - Home:
   ![image](./images/readme.jpg)
-  可開始、暫停、繼續倒數、略過倒數，且略過倒數時不會響鈴
+  可開始、暫停、繼續倒數、略過倒數
 - List:
   ![image](./images/list.jpg)
   可自訂待辦事項時間
